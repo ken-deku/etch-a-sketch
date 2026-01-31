@@ -49,11 +49,6 @@ This project focuses on core frontend fundamentals:
 Ken
 ---
 
-Open locally:
-
-```bash
-open index.html
-
 
 
 
