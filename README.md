@@ -5,7 +5,7 @@ An interactive browser-based Etch-a-Sketch drawing app.
 This project was created as part of The Odin Project to practice **DOM manipulation, dynamic layout generation, and event handling** without any frameworks.
 
 
-Live preview can be found here: 
+Live preview can be found here:  https://ken-deku.github.io/etch-a-sketch/
 
 
 ## 🚀 Overview
